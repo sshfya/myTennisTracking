@@ -1,5 +1,8 @@
 # myTennisTracking
 
+SiBaTrAcc final value: 0.6437250006419383
+
+
 #LBL1 - Вывод различных показателей в процессе обучения
 
 
